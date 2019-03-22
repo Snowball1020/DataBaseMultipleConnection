@@ -17,7 +17,7 @@
 <body>
 
 <nav class="navbar">
-	<a href="menu.php" title="COMP1006 Web Application" class="navbar-brand">COMP1006 App</a>
+	<a href="menu.php" title="COMP1006 Web Application" class="navbar-brand">Manegement System</a>
 	
 	<ul class="nav navbar-nav">
 		<?php // show public or private links depending on whether the user has been authenticated

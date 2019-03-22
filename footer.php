@@ -1,5 +1,5 @@
 <footer class="alert alert-warning">
-	&copy; 2018 | COMP1006 Intro to Web Programming 
+	&copy; 2019 | Yuki PHP and Database 
 
 </footer>
 
